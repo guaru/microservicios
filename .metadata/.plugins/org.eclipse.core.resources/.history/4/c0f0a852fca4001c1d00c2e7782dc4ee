@@ -1,0 +1,6 @@
+package com.indra.springboot.app.item.model;
+
+public interface ItemService {
+  
+	
+}

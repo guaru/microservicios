@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=servicio-item/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.indra.springboot.app.item.model.service{IItemService.java[IItemService" modifiers="513" timestamp="1647417377780"/>
+    <typeInfo handle="=gateway-server/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.indra.springboot.app.gateway.filters.factory{EjemploGatewayFilterFactory.java[EjemploGatewayFilterFactory" modifiers="1" timestamp="1649611540929"/>
+</typeInfoHistroy>
