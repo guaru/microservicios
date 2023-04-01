@@ -13,7 +13,6 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.indra.springboot.app.productos.model.entity.Producto;
 import com.indra.springboot.app.productos.model.service.IProductoService;
-
 @RestController
 public class ProductoController {
 
@@ -38,7 +37,6 @@ public class ProductoController {
 	
 	@GetMapping("/ver/{id}")
 	public Producto detalle(@PathVariable Long  id) throws InterruptedException {
-		
 		if(id.equals(10L)) {
 			throw new IllegalStateException("Producto no encontrado!");
 		}
