@@ -1,5 +1,4 @@
 # Microservicios Spring Cloud
-CURSO MICROSERVICIOS
 
 * Spring Cloud Gateway
 * Spring Cloud Netflix Eureka
